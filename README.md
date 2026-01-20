@@ -1,6 +1,6 @@
 # 👋 Bem-vindo(a) ao meu perfil!
 
-Sou **KyrraH22**, desenvolvedor(a) apaixonado(a) por tecnologia e inovação.
+Sou **KyrraH22**, desenvolvedor apaixonado por tecnologia e inovação.
 
 ---
 
